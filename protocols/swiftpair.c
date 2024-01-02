@@ -5,7 +5,7 @@
 // Documentation at https://learn.microsoft.com/en-us/windows-hardware/design/component-guidelines/bluetooth-swift-pair
 
 const char* names[] = {
-    "Flipper 🐬",
+    " U W U",
 };
 const uint8_t names_count = COUNT_OF(names);
 
